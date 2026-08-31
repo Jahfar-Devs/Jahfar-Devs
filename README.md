@@ -234,15 +234,6 @@ Streaming platform delivering Islamic educational and entertainment content for 
 
 ---
 
-## 🌟 Current Projects
-
-- 💸 **FinTrack** — AI-powered personal finance management platform.
-- 🏫 **SRF Platform** — Education management and ERP system.
-- 👥 **People ERP** — HR and attendance management platform.
-- 📖 **Lalithasaram** — Malayalam Quran platform with audio and tafseer.
-
----
-
 ## 🌱 Currently Learning
 
 - AI Agents
@@ -252,7 +243,19 @@ Streaming platform delivering Islamic educational and entertainment content for 
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-- GitHub: **@Jahfar-Devs**
-- Email: **jahfarswadikh1010+github@gmail.com**
+<p align="left">
+  <a href="mailto:jahfarswadikh1010+github@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/jahfar-swadikh-k-9986302b1/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="https://github.com/Jahfar-Devs">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
