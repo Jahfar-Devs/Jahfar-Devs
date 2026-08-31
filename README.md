@@ -4,12 +4,29 @@
 
 <br>
 
-# Hi there, I'm Jahfar Swadikh 👋
+<h1 align="center">Hi 👋, I'm Jahfar Swadikh</h1>
 
-### Full Stack Engineer • Next.js • Node.js • AI Integrations
+<h3 align="center">
+Full Stack Engineer • AI Integrations • Next.js Developer
+</h3>
 
-Building scalable web applications, fintech products, ERP systems, and Islamic technology using modern web technologies and AI.
+<p align="center">
+Building scalable web applications, fintech products, ERP platforms, and AI-powered Islamic technology with modern web technologies.
+</p>
 
+<p align="center">
+  <a href="mailto:jahfarswadikh1010+github@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Jahfar-Devs">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
 ---
 
 ## 🚀 About Me
