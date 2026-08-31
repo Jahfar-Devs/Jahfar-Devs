@@ -38,24 +38,31 @@ Building scalable web applications, fintech products, ERP platforms, and AI-powe
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Frontend**
+### Frontend
 
-`Next.js` • `React` • `TypeScript` • `Tailwind CSS` • `Redux Toolkit`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux" />
+</p>
 
-**Backend**
+### Backend
 
-`Node.js` • `Express.js` • `Supabase` • `MongoDB` • `PostgreSQL`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,postgres" />
+</p>
 
-**AI**
+### AI & Cloud
 
-`OpenAI API` • `Gemini API` • `LangChain` • `RAG` • `Embeddings`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,vercel,vscode" />
+</p>
 
-**Tools**
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,gemini" />
+</p>
 
-`Git` • `GitHub Actions` • `Docker` • `Cloudflare` • `Vercel`
-
+---
 ---
 
 ## 🌟 Current Projects
