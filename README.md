@@ -25,6 +25,13 @@ Building scalable web applications, fintech products, ERP platforms, and AI-powe
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;AI+Application+Developer;Next.js+%2B+Node.js+Developer;Building+Scalable+Fintech+and+ERP+Platforms" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jahfar-Devs&style=for-the-badge&color=7C3AED" />
+</p>
 
 ---
 ---
@@ -143,6 +150,10 @@ Kids-first OTT experience with categorized videos, authentication, and responsiv
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=Jahfar-Devs&theme=tokyonight&hide_border=true" />
 </p>
+
+## 📅 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahfar-Devs&theme=tokyo-night&hide_border=true" width="100%"/>
 
 ---
 ---
