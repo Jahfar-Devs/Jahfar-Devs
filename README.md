@@ -52,16 +52,31 @@
 
 ### 💰 FinTrack
 
-AI-powered personal finance management platform.
+AI-powered personal finance management platform that helps users manage expenses, budgets, savings goals, and financial insights using AI.
 
-**Tech:** Next.js • Node.js • Supabase • Gemini AI
+**Tech Stack**
 
-Smart expense tracking, budgeting, AI financial insights, and analytics dashboard.
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,supabase,ts,tailwind" />
+</p>
+
+**Highlights**
+
+- AI expense categorization.
+- Budget & savings planner.
+- Financial dashboard with analytics.
+- Gemini AI-powered insights.
+
+<p>
+  <a href="https://fintrack-xhhq.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/fintrack.png" alt="FinTrack Dashboard" width="100%"/>
+<img src="./assets/projects/fintrack.png" width="100%" alt="FinTrack Dashboard"/>
 </td>
 </tr>
 
@@ -70,52 +85,97 @@ Smart expense tracking, budgeting, AI financial insights, and analytics dashboar
 
 ### 🏢 People's ERP
 
-Modern ERP platform for educational institutions.
+Comprehensive ERP solution for educational institutions with role-based management and operational workflows.
 
-**Tech:** Next.js • TypeScript • Express • MongoDB
+**Tech Stack**
 
-Student management, attendance, growth tracking, coordinators, and reporting dashboard.
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,mongodb,tailwind" />
+</p>
+
+**Highlights**
+
+- Student & staff management.
+- Attendance tracking.
+- Growth activity monitoring.
+- Multi-role dashboard and reporting.
+
+<p>
+  <a href="https://baithuzzakath-application.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/people-erp.png" alt="People ERP Dashboard" width="100%"/>
+<img src="./assets/projects/people-erp.png" width="100%" alt="People ERP Dashboard"/>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 📊 SRF
+### 📊 SRF Platform
 
-Internal workflow and operations management platform.
+Internal workflow and operations platform built for streamlined organizational management and reporting.
 
-**Tech:** Next.js • Supabase • PostgreSQL
+**Tech Stack**
 
-Role-based workflows, approvals, reports, and internal management tools.
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,supabase,postgres,ts,tailwind" />
+</p>
+
+**Highlights**
+
+- Workflow automation.
+- Coordinator & regional management.
+- Role-based approvals.
+- Reports and internal dashboards.
+
+<p>
+  <a href="https://srf-web.netlify.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/srf.png" alt="SRF Dashboard" width="100%"/>
+<img src="./assets/projects/srf.png" width="100%" alt="SRF Dashboard"/>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### 👩 WES — Women's Entrepreneurs Summit
+### 👩 Women's Entrepreneurs Summit (WES)
 
-Official summit website and management platform.
+Official website and digital platform for the Women's Entrepreneurs Summit, including event information and registrations.
 
-**Tech:** Next.js • Cloudflare • TypeScript
+**Tech Stack**
 
-Event registration, speaker management, schedules, announcements, and responsive landing pages.
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,cloudflare" />
+</p>
+
+**Highlights**
+
+- Event registration.
+- Speaker showcase.
+- Summit schedule.
+- Responsive public landing pages.
+
+<p>
+  <a href="https://summit.jihkerala.org/">
+    <img src="https://img.shields.io/badge/Live_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/wes.png" alt="Women's Entrepreneurs Summit" width="100%"/>
+<img src="./assets/projects/wes.png" width="100%" alt="Women's Entrepreneurs Summit"/>
 </td>
 </tr>
 
@@ -124,20 +184,36 @@ Event registration, speaker management, schedules, announcements, and responsive
 
 ### 🎬 Zaitoon Kids OTT
 
-Streaming platform for Islamic children's content.
+Streaming platform delivering Islamic educational and entertainment content for children with a modern OTT experience.
 
-**Tech:** Next.js • Node.js • Video Streaming
+**Tech Stack**
 
-Kids-first OTT experience with categorized videos, authentication, and responsive playback.
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,tailwind" />
+</p>
+
+**Highlights**
+
+- Kids-friendly OTT interface.
+- Video streaming.
+- Authentication & profiles.
+- Responsive playback experience.
+
+<p>
+  <a href="https://admin.zaitoon.app/">
+    <img src="https://img.shields.io/badge/Live_Platform-7C3AED?style=for-the-badge&logo=googleplay&logoColor=white"/>
+  </a>
+</p>
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/zaitoon.png" alt="Zaitoon Kids OTT" width="100%"/>
+<img src="./assets/projects/zaitoon.png" width="100%" alt="Zaitoon Kids OTT"/>
 </td>
 </tr>
 </table>
 
+---
 ---
 ## 📈 GitHub Analytics
 
