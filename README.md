@@ -38,29 +38,93 @@ Building scalable web applications, fintech products, ERP platforms, and AI-powe
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Featured Projects
 
-### Frontend
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux" />
-</p>
+### 💰 FinTrack
 
-### Backend
+AI-powered personal finance management platform.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,mongodb,postgres" />
-</p>
+**Tech:** Next.js • Node.js • Supabase • Gemini AI
 
-### AI & Cloud
+- Expense & income tracking.
+- AI financial insights.
+- Budget planning.
+- Modern dashboard.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,cloudflare,github,vercel,vscode" />
-</p>
+</td>
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai,gemini" />
-</p>
+<td width="50%">
+<img src="./assets/projects/fintrack.png" width="100%" alt="FinTrack Preview"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏢 People ERP
+
+Enterprise ERP platform for institutions.
+
+**Tech:** Next.js • MongoDB • Express • TypeScript
+
+- Student & staff management.
+- Attendance.
+- Growth tracking.
+- Coordinator dashboard.
+
+</td>
+
+<td width="50%">
+<img src="./assets/projects/people-erp.png" width="100%" alt="People ERP Preview"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📖 Lalithasaram
+
+Islamic knowledge platform.
+
+**Tech:** Next.js • SQLite • Cloudflare • Node.js
+
+- Quran & Hadith APIs.
+- Audio streaming.
+- Fast search.
+- Static optimization.
+
+</td>
+
+<td width="50%">
+<img src="./assets/projects/lalithasaram.png" width="100%" alt="Lalithasaram Preview"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📚 SRF
+
+Internal workflow & management platform.
+
+**Tech:** Next.js • Supabase • PostgreSQL
+
+- Workflow automation.
+- User roles.
+- Reporting.
+- Internal management.
+
+</td>
+
+<td width="50%">
+<img src="./assets/projects/srf.png" width="100%" alt="SRF Preview"/>
+</td>
+</tr>
+</table>
 
 ---
 ---
