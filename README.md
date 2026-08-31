@@ -1,42 +1,41 @@
 <p align="center">
-  <img src="./assets/GH-banner.png" alt="Jahfar Swadikh Banner" width="100%" />
+  <img src="./assets/GH-banner.png" width="100%" alt="Jahfar Swadikh Banner"/>
 </p>
 
-<br>
-
-<h1 align="center">Hi 👋, I'm Jahfar Swadikh</h1>
-
-<h3 align="center">
-Full Stack Engineer • AI Integrations • Next.js Developer
-</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px"/> I'm
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Jahfar+Swadikh+K;Full+Stack+Engineer;AI+Application+Developer;Next.js+%7C+Node.js+%7C+TypeScript;Building+Fintech+%26+ERP+Platforms" alt="Typing SVG"/>
+</h1>
 
 <p align="center">
-Building scalable web applications, fintech products, ERP platforms, and AI-powered Islamic technology with modern web technologies.
+  Building scalable web applications, fintech products, ERP platforms, and AI-powered Islamic technology with modern web technologies.
 </p>
 
 <p align="center">
   <a href="mailto:jahfarswadikh1010+github@gmail.com">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Jahfar-Devs">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/jahfar-swadikh-k-9986302b1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=7C3AED&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;AI+Application+Developer;Next.js+%2B+Node.js+Developer;Building+Scalable+Fintech+and+ERP+Platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jahfar-Devs&style=for-the-badge&color=7C3AED" />
+  <img src="https://komarev.com/ghpvc/?username=Jahfar-Devs&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
 </p>
 
 ---
----
 
-## 🚀 About Me
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5uOWJxbXdmdjlteG5mZDV2Z2hzbjQ1c3FkeTFpdDZzMnJ4NXRjZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="28"/> About Me
+
+
+
 
 - 💼 Full Stack Engineer at **D4DX Innovations LLP**
 - 🌍 Based in Kerala, India.
