@@ -152,9 +152,10 @@ Kids-first OTT experience with categorized videos, authentication, and responsiv
 
 ## 📅 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jahfar-Devs&theme=tokyo-night&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jahfar-Devs/Jahfar-Devs/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+</p>
 
----
 ---
 
 ## 🌟 Current Projects
