@@ -21,7 +21,7 @@ Building scalable web applications, fintech products, ERP platforms, and AI-powe
   <a href="https://github.com/Jahfar-Devs">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/jahfar-swadikh-k-9986302b1">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
