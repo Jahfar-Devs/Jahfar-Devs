@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/GH-banner.png" alt="Jahfar Swadikh Banner" width="100%" />
+</p>
+
+<br>
+
 # Hi there, I'm Jahfar Swadikh 👋
 
 ### Full Stack Engineer • Next.js • Node.js • AI Integrations
