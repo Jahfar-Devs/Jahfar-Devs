@@ -133,6 +133,18 @@ Kids-first OTT experience with categorized videos, authentication, and responsiv
 </table>
 
 ---
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jahfar-Devs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Jahfar-Devs&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahfar-Devs&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ---
 
 ## 🌟 Current Projects
