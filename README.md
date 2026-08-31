@@ -42,7 +42,7 @@ Building scalable web applications, fintech products, ERP platforms, and AI-powe
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💰 FinTrack
 
@@ -50,78 +50,84 @@ AI-powered personal finance management platform.
 
 **Tech:** Next.js • Node.js • Supabase • Gemini AI
 
-- Expense & income tracking.
-- AI financial insights.
-- Budget planning.
-- Modern dashboard.
+Smart expense tracking, budgeting, AI financial insights, and analytics dashboard.
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/fintrack.png" width="100%" alt="FinTrack Preview"/>
+<img src="./assets/projects/fintrack.png" alt="FinTrack Dashboard" width="100%"/>
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 People ERP
+### 🏢 People's ERP
 
-Enterprise ERP platform for institutions.
+Modern ERP platform for educational institutions.
 
-**Tech:** Next.js • MongoDB • Express • TypeScript
+**Tech:** Next.js • TypeScript • Express • MongoDB
 
-- Student & staff management.
-- Attendance.
-- Growth tracking.
-- Coordinator dashboard.
+Student management, attendance, growth tracking, coordinators, and reporting dashboard.
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/people-erp.png" width="100%" alt="People ERP Preview"/>
+<img src="./assets/projects/people-erp.png" alt="People ERP Dashboard" width="100%"/>
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📖 Lalithasaram
+### 📊 SRF
 
-Islamic knowledge platform.
-
-**Tech:** Next.js • SQLite • Cloudflare • Node.js
-
-- Quran & Hadith APIs.
-- Audio streaming.
-- Fast search.
-- Static optimization.
-
-</td>
-
-<td width="50%">
-<img src="./assets/projects/lalithasaram.png" width="100%" alt="Lalithasaram Preview"/>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 SRF
-
-Internal workflow & management platform.
+Internal workflow and operations management platform.
 
 **Tech:** Next.js • Supabase • PostgreSQL
 
-- Workflow automation.
-- User roles.
-- Reporting.
-- Internal management.
+Role-based workflows, approvals, reports, and internal management tools.
 
 </td>
 
 <td width="50%">
-<img src="./assets/projects/srf.png" width="100%" alt="SRF Preview"/>
+<img src="./assets/projects/srf.png" alt="SRF Dashboard" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👩 WES — Women's Entrepreneurs Summit
+
+Official summit website and management platform.
+
+**Tech:** Next.js • Cloudflare • TypeScript
+
+Event registration, speaker management, schedules, announcements, and responsive landing pages.
+
+</td>
+
+<td width="50%">
+<img src="./assets/projects/wes.png" alt="Women's Entrepreneurs Summit" width="100%"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Zaitoon Kids OTT
+
+Streaming platform for Islamic children's content.
+
+**Tech:** Next.js • Node.js • Video Streaming
+
+Kids-first OTT experience with categorized videos, authentication, and responsive playback.
+
+</td>
+
+<td width="50%">
+<img src="./assets/projects/zaitoon.png" alt="Zaitoon Kids OTT" width="100%"/>
 </td>
 </tr>
 </table>
